@@ -1,4 +1,4 @@
-Project Name : Tiles Gallery Ecommerce
+Project Name : Tiles Gallery
 Live Link
 Check out the live application here:    https://tiles-gallery-ecommerce.vercel.app/
 
@@ -16,17 +16,13 @@ Auth client integration
 Deployment 
 
 Tech Stack
-Frontend: React.js / Next.js (Change as per your project)
+Frontend: React.js / Next.js 
 Styling: Tailwind CSS / CSS Modules
 Deployment: Vercel
 Design Inspiration: Modern Minimalist Aesthetic
 API Integration
 heroui 
 
-Contact
-Project Lead: MH Shanto
-Email: mhshanto.8989.t@gmail.com
-Phone: +880 15165042
 
 
 Image Consistency

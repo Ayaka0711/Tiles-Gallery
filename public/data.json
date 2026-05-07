@@ -2,9 +2,9 @@
   "tiles": [
     {
       "id": "tile_001",
-      "title": "Oida Ceramic Blue",
+      "title": "Blue Ceramic Tile",
       "description": "Premium glossy blue ceramic tile with authentic texture",
-      "image":"https://images.unsplash.com/photo-1708540084677-dc5838b37627",
+      "image":"https://images.unsplash.com/photo-1615529182904-14819c35db37?q=80&w=800&auto=format&fit=crop",
       "category": "ceramic",
       "price": 45.99,
       "currency": "USD",
@@ -14,9 +14,9 @@
     },
     {
       "id": "tile_002",
-      "title": "Modern White Porcelain",
+      "title": "White Porcelain Tile",
       "description": "Elegant white porcelain tile for modern homes",
-      "image": "https://images.unsplash.com/photo-1615529182904-14819c35db37?q=80&w=800&auto=format&fit=crop",
+      "image": "https://images.unsplash.com/photo-1616486029423-aaa4789e8c9a?q=80&w=800&auto=format&fit=crop",
       "category": "porcelain",
       "price": 55.99,
       "currency": "USD",
@@ -26,9 +26,9 @@
     },
     {
       "id": "tile_003",
-      "title": "Luxury Marble Grey",
+      "title": "Grey Marble Tile",
       "description": "High-end marble tile with grey texture",
-      "image": "https://images.unsplash.com/photo-1616486029423-aaa4789e8c9a?q=80&w=800&auto=format&fit=crop",
+      "image": "https://images.unsplash.com/photo-1708540084677-dc5838b37627",
       "category": "marble",
       "price": 75.5,
       "currency": "USD",
@@ -38,9 +38,9 @@
     },
     {
       "id": "tile_004",
-      "title": "Granite Black Stone",
+      "title": "Black Granite Tile",
       "description": "Durable granite tile for heavy use",
-      "image": "https://images.unsplash.com/photo-1516961642265-531546e84af2?q=80&w=800&auto=format&fit=crop",
+      "image": "https://www.hansetile.com/Content/upload/2019321907/201901311508468620546.jpg",
       "category": "granite",
       "price": 65.0,
       "currency": "USD",
@@ -50,7 +50,7 @@
     },
     {
       "id": "tile_005",
-      "title": "Glass Mosaic Shine",
+      "title": "Glass Mosaic Tile",
       "description": "Shiny glass mosaic tile for stylish walls",
       "image": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?q=80&w=800&auto=format&fit=crop",
       "category": "glass",
@@ -62,7 +62,7 @@
     },
     {
       "id": "tile_006",
-      "title": "Colorful Mosaic Mix",
+      "title": "Color Mosaic Tile",
       "description": "Vibrant mosaic tiles with mixed colors",
       "image": "https://images.unsplash.com/photo-1600210492493-0946911123ea?q=80&w=800&auto=format&fit=crop",
       "category": "mosaic",
@@ -74,7 +74,7 @@
     },
     {
       "id": "tile_007",
-      "title": "Matte Ceramic Beige",
+      "title": "Beige Ceramic Tile",
       "description": "Soft beige ceramic tile with matte finish",
       "image":  "https://images.unsplash.com/photo-1600607687644-c7171b42498f?q=80&w=800&auto=format&fit=crop",
       "category": "ceramic",
@@ -86,7 +86,7 @@
     },
     {
       "id": "tile_008",
-      "title": "Polished Marble White",
+      "title": "White Marble Tile",
       "description": "Bright white polished marble tile",
       "image":   "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=800&auto=format&fit=crop",
       "category": "marble",

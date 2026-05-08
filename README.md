@@ -1,6 +1,6 @@
 Project Name : Tiles Gallery
 Live Link
-Check out the live application here:    https://tiles-gallery-ecommerce.vercel.app/
+Check out the live application here:    https://tiles-gallery-main.vercel.app
 
 Home Page
 Banner with "Discover Your Perfect Aesthetic"

@@ -2,7 +2,7 @@ import TilesSearch from "@/components/TilesSearch";
 
 const AllTilesPage = async () => {
   const res = await fetch(
-    "https://tiles-gallery-ecommerce.vercel.app/data.json",
+    "https://tiles-gallery-main.vercel.app",
     { cache: "no-store" }
   );
   const data = await res.json();
